@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-toe-example",
+  "version": "1.0.0",
+  "description": "TicTacToe game with using OOP style",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitluck/tic-tac-toe-example.git"
+  },
+  "author": "bitluck",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
